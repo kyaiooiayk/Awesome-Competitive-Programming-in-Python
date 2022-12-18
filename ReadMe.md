@@ -3,10 +3,10 @@
 ***
 
 ## What is available
-- [LeetCode]()
-- [CodeDome]()
-- [Others popular problems]()
-- [Cheatsheets]()
+- [LeetCode](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/tree/main/tutorials/LeetCode)
+- [TestDome](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/tree/main/tutorials/TestDome)
+- [Others popular problems](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/tree/main/tutorials/Others)
+- [Cheatsheets](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/tree/main/tutorials/Cheatsheets)
 ***
 
 ## Resources

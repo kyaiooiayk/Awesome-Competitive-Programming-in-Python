@@ -10,6 +10,7 @@
 - [27 | Remove Element](https://github.com/kyaiooiayk/Python-Programming/blob/main/tutorials/Coding_Interview_exercises/LeetCode/codes/GitHub_MD_rendering/27%20-%20Remove%20element.ipynb)
 - [35 | Search Insert Position](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/35%20-%20Search%20Insert%20Position.ipynb)
 - [58 | Length of Last Word](https://github.com/kyaiooiayk/Python-Programming/blob/main/tutorials/Coding_Interview_exercises/LeetCode/codes/GitHub_MD_rendering/58%20-%20Length%20of%20Last%20Word.ipynb)
+- [66 | Plus One]()
 - [69 | Sqrt(x)](https://github.com/kyaiooiayk/Python-Programming/blob/main/tutorials/Coding_Interview_exercises/LeetCode/codes/GitHub_MD_rendering/69%20-%20Sqrt(x).ipynb)
 - [83 | Remove Duplicates from Sorted List.ipynb](https://github.com/kyaiooiayk/Python-Programming/blob/main/tutorials/Coding_Interview_exercises/LeetCode/codes/GitHub_MD_rendering/83%20-%20Remove%20Duplicates%20from%20Sorted%20List.ipynb)
 - [100 | Same Tree.ipynb](https://github.com/kyaiooiayk/Python-Programming/blob/main/tutorials/Coding_Interview_exercises/LeetCode/codes/GitHub_MD_rendering/100%20-%20Same%20Tree.ipynb)

@@ -1,5 +1,5 @@
 DATASETS
-*.ipynb_checkpoints
+**/*.ipynb_checkpoints
 **/.DS_Store
 **/*.pyc
 **/__pycache__

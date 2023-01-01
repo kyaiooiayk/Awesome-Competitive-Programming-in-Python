@@ -20,7 +20,8 @@
 - [121 | Best Time to Buy and Sell Stock](https://github.com/kyaiooiayk/Python-Programming/blob/main/tutorials/Coding_Interview_exercises/LeetCode/codes/GitHub_MD_rendering/121%20-%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.ipynb)
 - [125 | Valid Palindrome](https://github.com/kyaiooiayk/Python-Programming/blob/main/tutorials/Coding_Interview_exercises/LeetCode/codes/GitHub_MD_rendering/125%20-%20Valid%20Palindrome.ipynb)
 - [136 | Single Number](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/136%20-%20%20Single%20Number.ipynb)
-- [202 | Happy Number]()
+- [169 - Majority Element]()
+- [202 | Happy Number](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/202%20-%20Happy%20Number.ipynb)
 - [217 | Contains Duplicate](https://github.com/kyaiooiayk/Python-Programming/blob/main/tutorials/Coding_Interview_exercises/LeetCode/codes/GitHub_MD_rendering/217%20-%20Contains%20Duplicate.ipynb)
 ***
 

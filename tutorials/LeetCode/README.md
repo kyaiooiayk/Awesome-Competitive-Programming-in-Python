@@ -25,7 +25,8 @@
 - [205 | Isomorphic Strings](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/205%20-%20Isomorphic%20Strings.ipynb)
 - [217 | Contains Duplicate](https://github.com/kyaiooiayk/Python-Programming/blob/main/tutorials/Coding_Interview_exercises/LeetCode/codes/GitHub_MD_rendering/217%20-%20Contains%20Duplicate.ipynb)
 - [219 | Contains Duplicate II](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/219%20-%20Contains%20Duplicate%20II.ipynb)
-- [263 | Ugly Number]()
+- [263 | Ugly Number](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/263%20-%20Ugly%20Number.ipynb)
+- [268 | Missing Number]()
 ***
 
 ## References

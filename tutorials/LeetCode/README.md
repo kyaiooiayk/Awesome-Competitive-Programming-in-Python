@@ -26,7 +26,8 @@
 - [217 | Contains Duplicate](https://github.com/kyaiooiayk/Python-Programming/blob/main/tutorials/Coding_Interview_exercises/LeetCode/codes/GitHub_MD_rendering/217%20-%20Contains%20Duplicate.ipynb)
 - [219 | Contains Duplicate II](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/219%20-%20Contains%20Duplicate%20II.ipynb)
 - [263 | Ugly Number](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/263%20-%20Ugly%20Number.ipynb)
-- [268 | Missing Number]()
+- [268 | Missing Number](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/268%20-%20Missing%20Number.ipynb)
+- [1859 | Sorting the Sentence]()
 ***
 
 ## References

@@ -6,6 +6,7 @@
 - [1 | Two sum and target](https://github.com/kyaiooiayk/Python-Programming/blob/main/tutorials/Coding_Interview_exercises/LeetCode/codes/GitHub_MD_rendering/1%20-%20two%20sum%20and%20target.ipynb)
 - [2 | Palindrome number](https://github.com/kyaiooiayk/Python-Programming/blob/main/tutorials/Coding_Interview_exercises/LeetCode/codes/GitHub_MD_rendering/2%20-%20Palindrome%20number.ipynb)
 - [13 | Roman to Integer](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/13%20-%20Roman%20to%20Integer.ipynb)
+- [14 | Longest Common Prefix]()
 - [21 | Merge two sorted list](https://github.com/kyaiooiayk/Python-Programming/blob/main/tutorials/Coding_Interview_exercises/LeetCode/codes/GitHub_MD_rendering/21%20-%20merge%20two%20sorted%20list.ipynb)
 - [26 | Remove Duplicates from Sorted Array](https://github.com/kyaiooiayk/Python-Programming/blob/main/tutorials/Coding_Interview_exercises/LeetCode/codes/GitHub_MD_rendering/26%20-%20Remove%20duplicates%20from%20sorted%20array.ipynb)
 - [27 | Remove Element](https://github.com/kyaiooiayk/Python-Programming/blob/main/tutorials/Coding_Interview_exercises/LeetCode/codes/GitHub_MD_rendering/27%20-%20Remove%20element.ipynb)
@@ -27,7 +28,7 @@
 - [219 | Contains Duplicate II](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/219%20-%20Contains%20Duplicate%20II.ipynb)
 - [263 | Ugly Number](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/263%20-%20Ugly%20Number.ipynb)
 - [268 | Missing Number](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/268%20-%20Missing%20Number.ipynb)
-- [1859 | Sorting the Sentence]()
+- [1859 | Sorting the Sentence](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1859%20-%20Sorting%20the%20Sentence.ipynb)
 ***
 
 ## References

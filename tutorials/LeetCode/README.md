@@ -31,6 +31,7 @@
 - [1859 | Sorting the Sentence](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1859%20-%20Sorting%20the%20Sentence.ipynb)
 - [1920 | Build Array from Permutation](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1920%20-%20Build%20Array%20from%20Permutation.ipynb)
 - [1929 | Concatenation of Array](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1929%20-%20Concatenation%20of%20Array.ipynb)
+- [2535 | Difference Between Element Sum and Digit Sum of an Array]()
 ***
 
 ## References

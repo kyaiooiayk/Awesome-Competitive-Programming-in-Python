@@ -29,7 +29,7 @@
 - [263 | Ugly Number](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/263%20-%20Ugly%20Number.ipynb)
 - [268 | Missing Number](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/268%20-%20Missing%20Number.ipynb)
 - [1480 | Running Sum of 1d Array](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1480%20-%20Running%20Sum%20of%201d%20Array.ipynb)
-- [1512 - Number of Good Pairs]()
+- [1512 - Number of Good Pairs](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1512%20-%20Number%20of%20Good%20Pairs.ipynb)
 - [1859 | Sorting the Sentence](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1859%20-%20Sorting%20the%20Sentence.ipynb)
 - [1920 | Build Array from Permutation](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1920%20-%20Build%20Array%20from%20Permutation.ipynb)
 - [1929 | Concatenation of Array](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1929%20-%20Concatenation%20of%20Array.ipynb)

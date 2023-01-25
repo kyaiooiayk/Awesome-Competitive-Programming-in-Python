@@ -31,6 +31,7 @@
 - [771 | Jewels and Stones](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/771%20-%20Jewels%20and%20Stones.ipynb)
 - [1480 | Running Sum of 1d Array](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1480%20-%20Running%20Sum%20of%201d%20Array.ipynb)
 - [1512 - Number of Good Pairs](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1512%20-%20Number%20of%20Good%20Pairs.ipynb)
+- [1672 | Richest Customer Wealth]()
 - [1859 | Sorting the Sentence](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1859%20-%20Sorting%20the%20Sentence.ipynb)
 - [1920 | Build Array from Permutation](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1920%20-%20Build%20Array%20from%20Permutation.ipynb)
 - [1929 | Concatenation of Array](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1929%20-%20Concatenation%20of%20Array.ipynb)

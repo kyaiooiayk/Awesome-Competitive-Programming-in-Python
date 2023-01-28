@@ -13,7 +13,7 @@
 - [35 | Search Insert Position](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/35%20-%20Search%20Insert%20Position.ipynb)
 - [58 | Length of Last Word](https://github.com/kyaiooiayk/Python-Programming/blob/main/tutorials/Coding_Interview_exercises/LeetCode/codes/GitHub_MD_rendering/58%20-%20Length%20of%20Last%20Word.ipynb)
 - [66 | Plus One](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/66%20-%20Plus%20One.ipynb)
-- [69 | Sqrt(x)](https://github.com/kyaiooiayk/Python-Programming/blob/main/tutorials/Coding_Interview_exercises/LeetCode/codes/GitHub_MD_rendering/69%20-%20Sqrt(x).ipynb)
+- [69 | Sqrt(x)](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/69%20-%20Sqrt(x).ipynb)
 - [83 | Remove Duplicates from Sorted List.ipynb](https://github.com/kyaiooiayk/Python-Programming/blob/main/tutorials/Coding_Interview_exercises/LeetCode/codes/GitHub_MD_rendering/83%20-%20Remove%20Duplicates%20from%20Sorted%20List.ipynb)
 - [88 | Merge Sorted Array](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/88%20-%20Merge%20Sorted%20Array.ipynb)
 - [100 | Same Tree.ipynb](https://github.com/kyaiooiayk/Python-Programming/blob/main/tutorials/Coding_Interview_exercises/LeetCode/codes/GitHub_MD_rendering/100%20-%20Same%20Tree.ipynb)
@@ -35,7 +35,7 @@
 - [1859 | Sorting the Sentence](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1859%20-%20Sorting%20the%20Sentence.ipynb)
 - [1920 | Build Array from Permutation](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1920%20-%20Build%20Array%20from%20Permutation.ipynb)
 - [1929 | Concatenation of Array](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1929%20-%20Concatenation%20of%20Array.ipynb)
-- [2413 | Smallest Even Multiple]()
+- [2413 | Smallest Even Multiple](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/2413%20-%20Smallest%20Even%20Multiple.ipynb)
 - [2535 | Difference Between Element Sum and Digit Sum of an Array](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/2535%20-%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array.ipynb)
 ***
 

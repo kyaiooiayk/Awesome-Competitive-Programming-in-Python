@@ -33,6 +33,7 @@
 - [1512 - Number of Good Pairs](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1512%20-%20Number%20of%20Good%20Pairs.ipynb)
 - [1672 | Richest Customer Wealth]()
 - [1859 | Sorting the Sentence](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1859%20-%20Sorting%20the%20Sentence.ipynb)
+- [1909 | Remove One Element to Make the Array Strictly Increasing]()
 - [1920 | Build Array from Permutation](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1920%20-%20Build%20Array%20from%20Permutation.ipynb)
 - [1929 | Concatenation of Array](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1929%20-%20Concatenation%20of%20Array.ipynb)
 - [2413 | Smallest Even Multiple](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/2413%20-%20Smallest%20Even%20Multiple.ipynb)

@@ -37,7 +37,7 @@
 - [1909 | Remove One Element to Make the Array Strictly Increasing](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1909%20-%20Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing.ipynb)
 - [1920 | Build Array from Permutation](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1920%20-%20Build%20Array%20from%20Permutation.ipynb)
 - [1929 | Concatenation of Array](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1929%20-%20Concatenation%20of%20Array.ipynb)
-- [2144 | Maximum Number of Words Found in Sentences]()
+- [2144 | Maximum Number of Words Found in Sentences](https://github.com/kyaiooiayk/Awesome-Competitive-Programming-in-Python/blob/main/tutorials/LeetCode/codes/2114%20-%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.ipynb)
 - [2413 | Smallest Even Multiple](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/2413%20-%20Smallest%20Even%20Multiple.ipynb)
 - [2423 | Remove Letter To Equalize Frequency](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/2423%20-%20Remove%20Letter%20To%20Equalize%20Frequency.ipynb)
 - [2535 | Difference Between Element Sum and Digit Sum of an Array](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/2535%20-%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array.ipynb)

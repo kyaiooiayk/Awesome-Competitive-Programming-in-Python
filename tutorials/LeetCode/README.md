@@ -40,7 +40,7 @@
 - [2114 | Maximum Number of Words Found in Sentences](https://github.com/kyaiooiayk/Awesome-Competitive-Programming-in-Python/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/2114%20-%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.ipynb)
 - [2413 | Smallest Even Multiple](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/2413%20-%20Smallest%20Even%20Multiple.ipynb)
 - [2423 | Remove Letter To Equalize Frequency](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/2423%20-%20Remove%20Letter%20To%20Equalize%20Frequency.ipynb)
-- [2427 | Number of Common Factors]()
+- [2427 | Number of Common Factors](https://github.com/kyaiooiayk/Awesome-Competitive-Programming-in-Python/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/2427%20-%20Number%20of%20Common%20Factors.ipynb)
 - [2535 | Difference Between Element Sum and Digit Sum of an Array](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/2535%20-%20Difference%20Between%20Element%20Sum%20and%20Digit%20Sum%20of%20an%20Array.ipynb)
 ***
 

@@ -37,6 +37,9 @@
 - [1909 | Remove One Element to Make the Array Strictly Increasing](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1909%20-%20Remove%20One%20Element%20to%20Make%20the%20Array%20Strictly%20Increasing.ipynb)
 - [1920 | Build Array from Permutation](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1920%20-%20Build%20Array%20from%20Permutation.ipynb)
 - [1929 | Concatenation of Array](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1929%20-%20Concatenation%20of%20Array.ipynb)
+
+- [1971 | Find if Path Exists in Graph]() | Default dictionary, queue and stack, DFS = Depth-First Search 
+
 - [2114 | Maximum Number of Words Found in Sentences](https://github.com/kyaiooiayk/Awesome-Competitive-Programming-in-Python/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/2114%20-%20Maximum%20Number%20of%20Words%20Found%20in%20Sentences.ipynb)
 - [2176 | Count Equal and Divisible Pairs in an Array](https://github.com/kyaiooiayk/Awesome-Competitive-Programming-in-Python/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/2176%20-%20Count%20Equal%20and%20Divisible%20Pairs%20in%20an%20Array.ipynb)
 - [2413 | Smallest Even Multiple](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/2413%20-%20Smallest%20Even%20Multiple.ipynb)

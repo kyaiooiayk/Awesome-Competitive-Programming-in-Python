@@ -29,6 +29,7 @@
 - [231 | Power of Two](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/231%20-%20Power%20of%20Two.ipynb)
 - [263 | Ugly Number](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/263%20-%20Ugly%20Number.ipynb)
 - [268 | Missing Number](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/268%20-%20Missing%20Number.ipynb)
+- [326 | Power of Three]()
 - [771 | Jewels and Stones](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/771%20-%20Jewels%20and%20Stones.ipynb)
 - [1480 | Running Sum of 1d Array](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1480%20-%20Running%20Sum%20of%201d%20Array.ipynb)
 - [1512 - Number of Good Pairs](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1512%20-%20Number%20of%20Good%20Pairs.ipynb)

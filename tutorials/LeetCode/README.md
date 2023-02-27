@@ -30,8 +30,11 @@
 - [263 | Ugly Number](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/263%20-%20Ugly%20Number.ipynb)
 - [268 | Missing Number](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/268%20-%20Missing%20Number.ipynb)
 - [326 | Power of Three](https://github.com/kyaiooiayk/Awesome-Competitive-Programming-in-Python/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/326%20-%20Power%20of%20Three.ipynb)
+
+- [482 | License Key Formatting]()
+
 - [771 | Jewels and Stones](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/771%20-%20Jewels%20and%20Stones.ipynb)
-- [1346 | Check If N and Its Double Exist]()
+- [1346 | Check If N and Its Double Exist](https://github.com/kyaiooiayk/Awesome-Competitive-Programming-in-Python/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1346%20-%20Check%20If%20N%20and%20Its%20Double%20Exist.ipynb)
 - [1480 | Running Sum of 1d Array](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1480%20-%20Running%20Sum%20of%201d%20Array.ipynb)
 - [1512 - Number of Good Pairs](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1512%20-%20Number%20of%20Good%20Pairs.ipynb)
 - [1672 | Richest Customer Wealth](https://github.com/kyaiooiayk/Awesome-Competitive-Programming-in-Python/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1672%20-%20Richest%20Customer%20Wealth.ipynb)

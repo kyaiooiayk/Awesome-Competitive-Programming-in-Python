@@ -1,5 +1,5 @@
 # Awesome Competitive Programming
-*Solved in python*
+*Solved in Python 3.x*
 ***
 
 ## What is available

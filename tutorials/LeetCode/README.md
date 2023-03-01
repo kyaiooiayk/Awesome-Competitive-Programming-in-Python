@@ -31,9 +31,7 @@
 - [268 | Missing Number](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/268%20-%20Missing%20Number.ipynb)
 - [326 | Power of Three](https://github.com/kyaiooiayk/Awesome-Competitive-Programming-in-Python/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/326%20-%20Power%20of%20Three.ipynb)
 - [482 | License Key Formatting](https://github.com/kyaiooiayk/Awesome-Competitive-Programming-in-Python/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/482%20-%20License%20Key%20Formatting.ipynb)
-
-- [628 | Maximum Product of Three Numbers]()
-
+- [628 | Maximum Product of Three Numbers](https://github.com/kyaiooiayk/Awesome-Competitive-Programming-in-Python/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/628%20-%20Maximum%20Product%20of%20Three%20Numbers.ipynb) | `reduce` & `list.sort()`
 - [771 | Jewels and Stones](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/771%20-%20Jewels%20and%20Stones.ipynb)
 - [1346 | Check If N and Its Double Exist](https://github.com/kyaiooiayk/Awesome-Competitive-Programming-in-Python/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1346%20-%20Check%20If%20N%20and%20Its%20Double%20Exist.ipynb)
 - [1480 | Running Sum of 1d Array](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/1480%20-%20Running%20Sum%20of%201d%20Array.ipynb)

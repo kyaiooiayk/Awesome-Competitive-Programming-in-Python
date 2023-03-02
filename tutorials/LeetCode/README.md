@@ -30,9 +30,7 @@
 - [263 | Ugly Number](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/263%20-%20Ugly%20Number.ipynb)
 - [268 | Missing Number](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/268%20-%20Missing%20Number.ipynb)
 - [326 | Power of Three](https://github.com/kyaiooiayk/Awesome-Competitive-Programming-in-Python/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/326%20-%20Power%20of%20Three.ipynb)
-
-- [441 | Arranging Coins]()
-
+- [441 | Arranging Coins](https://github.com/kyaiooiayk/Awesome-Competitive-Programming-in-Python/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/441%20-%20Arranging%20Coins.ipynb)
 - [482 | License Key Formatting](https://github.com/kyaiooiayk/Awesome-Competitive-Programming-in-Python/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/482%20-%20License%20Key%20Formatting.ipynb)
 - [628 | Maximum Product of Three Numbers](https://github.com/kyaiooiayk/Awesome-Competitive-Programming-in-Python/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/628%20-%20Maximum%20Product%20of%20Three%20Numbers.ipynb) | `reduce` & `list.sort()`
 - [771 | Jewels and Stones](https://github.com/kyaiooiayk/Awesome-Competitive-Programming/blob/main/tutorials/LeetCode/codes/GitHub_MD_rendering/771%20-%20Jewels%20and%20Stones.ipynb)
